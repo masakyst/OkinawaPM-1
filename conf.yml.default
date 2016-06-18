@@ -1,0 +1,11 @@
+user: root
+password:
+private_key: ''
+public_key: ''
+webadmin:
+    user: 
+    group: 
+    password: 
+httpd:
+    domain: ''
+    mail: ''
